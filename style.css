@@ -70,9 +70,14 @@ header{
     height: 10rem;
     width: 10rem;
     margin: 50px 20px;
-    background-color: antiquewhite;
+    background-color: rgb(252, 249, 245);
     object-fit: cover;
 
+}
+
+.innerCon img{
+    height: 10rem;
+    width: 10rem;
 }
 
     
