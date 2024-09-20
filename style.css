@@ -72,6 +72,9 @@ header{
     margin: 50px 20px;
     background-color: antiquewhite;
 }
+img{
+    object-fit: cover;
+}
     
 /* #box1{
 width: 100px;
